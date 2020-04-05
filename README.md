@@ -1,5 +1,6 @@
 # gfn-anti(anti?)afk
 A script that will stop Geforce Now from kicking you after 5-7 minutes of AFK.
+Check 'RELEASES' for an .exe or get the source and compile it with AutoHotKey
 
 *DISCLAIMER 1: Proceed at your own risk. I'm not taking any responsibilities (nor the creator) if you'll get banned in some games because of this script or if your PC will turn into a supernova and blew half of the planet.*
 
