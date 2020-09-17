@@ -20,6 +20,6 @@ Loop
     Sleep, 333
     WinMove, on GeForce NOW,, 0, 0, %MonitorRight%, %MonitorBottom%
     Sleep, 333
-    Sleep, 360000
+    Sleep, 240000
 }
 Return
